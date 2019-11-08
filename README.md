@@ -146,6 +146,10 @@ tool such as [Sonic Visualiser](https://www.sonicvisualiser.org/).
 somewhat difficult to decipher, and the mechanics are often kept a trade secret
 (what does danceability mean? Acousticness?).
 
+
+
+## Moretti on Operationalizing 
+
 - Operationalizing is "a process which is absolutely central to the new field
   of computational criticism, or, as it has come to be called, of the digital
 humanities." (p.1)
