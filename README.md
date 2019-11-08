@@ -115,7 +115,7 @@ pieces. Is that a corpus analysis?
 - The [iRealB Lead Sheet Corpus](iRb_v1-0.zip) (see Shanahan and Broze, 2012;
   Broze and Shanahan, 2013)
 
-- [The Omnibook Corpus](omnibook_kern.zip ) (see Baker, Shanahan, Rosado, and
+- [The Omnibook Corpus](omnibook_kern.zip) (see Baker, Shanahan, Rosado, and
   Shanahan, 2016).
 
 - Audio data is available via the Spotify API and other services.
