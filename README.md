@@ -127,7 +127,7 @@ musicXML, MEI, Kern, or MIDI.
 
 **Audio Data** is data taken directly from a recording. It can be taken from
 something like Spotify (with the Spotify API) or it can be extracted with a
-tool such as [https://www.sonicvisualiser.org/](Sonic Visualiser).
+tool such as [Sonic Visualiser](https://www.sonicvisualiser.org/).
 
 #### Symbolic Data
 
